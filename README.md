@@ -1,6 +1,6 @@
 # Haile Znabu Kalayu
 
-Independent Software Developer  
+Independent Software Developer   
 Android • Mobile Apps • MVP Development
 
 I build mobile applications and experiment with open-source projects.
