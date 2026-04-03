@@ -1,7 +1,7 @@
-# Haile Znabu Kalayu
+# Haile Znabu
 
 Independent Software Developer   
-Android • Mobile Apps • MVP Development
+Flutter • Mobile Apps • Java • Kotlin
 
 I build mobile applications and experiment with open-source projects.
 
