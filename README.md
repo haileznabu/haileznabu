@@ -59,17 +59,6 @@ Self-taught software developer with **8+ years of hands-on experience** building
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Script**](https://github.com/haileznabu/Script) | Utility scripts for automation & system management | Bash, Shell |
-| [**mass-commit**](https://github.com/haileznabu/mass-commit) | Professional commit history tooling | Python, Git |
-
----
-
 ## 🤝 Connect & Support
 
 If my work has been useful to you, consider supporting it:
