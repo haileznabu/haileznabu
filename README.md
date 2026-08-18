@@ -4,10 +4,14 @@ Software Engineer · Cybersecurity Specialist · Independent Developer
 
 Building secure, scalable, and practical software — Mobile · Backend · Cybersecurity
 
-""GitHub followers" (https://img.shields.io/github/followers/haileznabu?style=for-the-badge&logo=github&logoColor=white&color=0e75b6)" (https://github.com/haileznabu?tab=followers)
-""Profile views" (https://komarev.com/ghpvc/?username=haileznabu&style=for-the-badge&color=0e75b6)" (https://github.com/haileznabu)
+<div align="center">
 
-</div>---
+[![GitHub followers](https://img.shields.io/github/followers/haileznabu?style=for-the-badge&logo=github&logoColor=white&color=0e75b6)](https://github.com/haileznabu?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=haileznabu&style=for-the-badge&color=0e75b6)](https://komarev.com/ghpvc/?username=haileznabu)
+
+</div>
+
+</div>
 
 👨‍💻 About Me
 
@@ -45,31 +49,38 @@ My software engineering background gives me a strong perspective on security fro
 
 🛠️ Tech Stack
 
-Mobile Development
+<h2>🛠️ Tech Stack</h2>
 
-"Flutter" (https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-"Dart" (https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-"Kotlin" (https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-"Android" (https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<h3>Mobile Development</h3>
 
-Backend & Development
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+</p>
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-"Go" (https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-"Supabase" (https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-"Firebase" (https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-"Git" (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<h3>Backend & Development</h3>
 
-Security
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+</p>
 
-"Linux" (https://img.shields.io/badge/Linux-Security-FCC624?style=flat-square&logo=linux&logoColor=black)
-"Python" (https://img.shields.io/badge/Python-Security-3776AB?style=flat-square&logo=python&logoColor=white)
-"Bash" (https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-Security%20Workflows-F05032?style=flat-square&logo=git&logoColor=white)
+<h3>Cybersecurity</h3>
 
+<p>
+  <img src="https://img.shields.io/badge/Linux-Security-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Security">
+  <img src="https://img.shields.io/badge/Python-Security-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Security">
+  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Git-Security-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Security">
+</p>
 ---
 
 🚀 What I Build
@@ -85,13 +96,24 @@ I enjoy taking ideas from concept to working products, with a focus on:
 
 ---
 
-📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=haileznabu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileznabu&layout=compact&theme=tokyonight&hide_border=true" /></div><div align="center">""GitHub Streak" (https://streak-stats.demolab.com?user=haileznabu&theme=tokyonight&hide_border=true)" (https://git.io/streak-stats)
+<div align="center">
 
-</div>---
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=haileznabu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
 
-<div align="center"><sub>Building and learning since 2018 · Software Engineering · Cybersecurity · Ethiopia 🇪🇹</sub>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileznabu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 
+<br><br>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=haileznabu&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+<sub>Building and learning since 2018 · Software Engineering · Cybersecurity · Ethiopia 🇪🇹</sub>
 </div>
